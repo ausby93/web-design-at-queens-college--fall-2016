@@ -22,6 +22,8 @@
 
 11. Along the bottom of the window you’ll see a one-line text box that says `Summary` in light gray and a multi-line text box that says `Description`. Fill in only the `Summary` box. Say something to the effect of, “Midterm project submission.”
 
-12. Click `Sync` in the upper right hand corner.
+12. Click the button below the `Description` box that says, `commit to YOUR_NAME`, where `YOUR_NAME` is the branch titled after your name.
 
-13. You’re done.
+13. Click `Sync` in the upper right hand corner.
+
+14. You’re done.
