@@ -1,0 +1,38 @@
+body {
+	background-color: rgb(128, 128, 128);
+
+
+}
+
+.center {
+	text-align: center;
+	
+}
+h1.center{
+	margin-bottom:5px;
+}
+
+p.center{
+	margin-top:5px;
+}
+
+nav {
+	text-align: center;
+	width: 1024px;
+	height: 100%;
+	background-color: blue;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+
+#box{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	border: 2px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+	width:1000px;
+	height:1000px;
+}
